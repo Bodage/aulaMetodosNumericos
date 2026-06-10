@@ -1,7 +1,4 @@
-import os
-import decimal
 from sympy import *
-import math
 
 def main() -> None:
     x = symbols('x')
